@@ -1,0 +1,1 @@
+insert into todo (id,description,username,target_date,done) values(1001,'learn jpa','jaideep',sysdate(),false);
